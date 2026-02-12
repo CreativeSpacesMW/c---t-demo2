@@ -1,0 +1,7 @@
+{
+  "name": "C & T Group of Partners - Blantyre",
+  "description": "Professional consultancy, tutoring, and web design services based in Blantyre, Malawi, specializing in MRA compliance, ICAM/ACCA education, and digital infrastructure.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
